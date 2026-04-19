@@ -58,7 +58,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SaiyamDoshi7/inventory-dashboard.git
+https://github.com/SaiyamDoshi7/Firebase-Database.git
 cd inventory-dashboard
 ```
 
